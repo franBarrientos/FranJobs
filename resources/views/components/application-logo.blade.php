@@ -1,0 +1,1 @@
+ <h1 class="text-6xl">Fran<span class="font-extrabold">Jobs</span></h1>
